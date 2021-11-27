@@ -14,15 +14,7 @@ To generate the table based on the sources and SKU count based on the given 3 CS
 ## Output
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <tbody>
     <tr>
